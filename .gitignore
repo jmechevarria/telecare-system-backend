@@ -1,0 +1,8 @@
+node_modules
+.env
+src/__pycache__
+src/analytics/__pycache__
+src/static
+src/static/*
+src/analytics/spark/*.jar
+**/.vscode/**
